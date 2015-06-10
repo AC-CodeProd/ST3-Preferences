@@ -1,0 +1,44 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": ""
+				},
+				"command": "text_pastry_insert_text",
+				"text": "words "
+			},
+			"key": "6d1f2a3a74df47c66f99535c8fd7dba2",
+			"label": "words "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "10",
+					"step_size": "10",
+					"text": "row-10"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "as row-10 10 x10"
+			},
+			"key": "d96ccca5368d0fa339378ad365766454",
+			"label": "as row-10 10 x10"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"repeat": "10",
+			"step_size": "10",
+			"text": "row-10"
+		},
+		"command": "text_pastry_auto_step",
+		"text": "as row-10 10 x10"
+	}
+}
