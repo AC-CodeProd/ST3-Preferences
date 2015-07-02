@@ -9,15 +9,66 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_FFA500FF</string>
+<string>mcol_000000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#FFA500FF</string>
+<string>#000000FF</string>
 <key>caret</key>
-<string>#4C3100FF</string>
+<string>#FFFFFFFF</string>
 <key>foreground</key>
-<string>#4C3100FF</string>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_0000003F</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#0000003F</string>
+<key>caret</key>
+<string>#FFFFFFFF</string>
+<key>foreground</key>
+<string>#FFFFFFFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_EEEEEEFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#EEEEEEFF</string>
+<key>caret</key>
+<string>#101010FF</string>
+<key>foreground</key>
+<string>#101010FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_008000FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#008000FF</string>
+<key>caret</key>
+<string>#7FFF7FFF</string>
+<key>foreground</key>
+<string>#7FFF7FFF</string>
 </dict>
 </dict>
 
@@ -43,15 +94,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_FFA500FF</string>
+<string>mcol_FFFFFFFF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#FFA500FF</string>
+<string>#FFFFFFFF</string>
 <key>caret</key>
-<string>#4C3100FF</string>
+<string>#000000FF</string>
 <key>foreground</key>
-<string>#4C3100FF</string>
+<string>#000000FF</string>
 </dict>
 </dict>
 
@@ -60,49 +111,15 @@
 <key>name</key>
 <string>mon_color</string>
 <key>scope</key>
-<string>mcol_0000FFFF</string>
+<string>mcol_FF0000FF</string>
 <key>settings</key>
 <dict>
 <key>background</key>
-<string>#0000FFFF</string>
+<string>#FF0000FF</string>
 <key>caret</key>
-<string>#00004CFF</string>
+<string>#4C0000FF</string>
 <key>foreground</key>
-<string>#00004CFF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_FFA500FF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#FFA500FF</string>
-<key>caret</key>
-<string>#4C3100FF</string>
-<key>foreground</key>
-<string>#4C3100FF</string>
-</dict>
-</dict>
-
-
-<dict>
-<key>name</key>
-<string>mon_color</string>
-<key>scope</key>
-<string>mcol_0000FFFF</string>
-<key>settings</key>
-<dict>
-<key>background</key>
-<string>#0000FFFF</string>
-<key>caret</key>
-<string>#00004CFF</string>
-<key>foreground</key>
-<string>#00004CFF</string>
+<string>#4C0000FF</string>
 </dict>
 </dict>
 
@@ -580,16 +597,6 @@
             </dict>
         </dict><dict>
             <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DDB700</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
             <string>sublimelinter.gutter-mark</string>
@@ -597,6 +604,16 @@
             <dict>
                 <key>foreground</key>
                 <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
             </dict>
         </dict></array>
 	</dict>

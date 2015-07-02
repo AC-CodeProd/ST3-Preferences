@@ -1,5 +1,10 @@
 {
 	"Default_encoding": "UTF-8",
+	"Seti_SB_bright": true,
+	"Seti_SB_med": true,
+	"Seti_tabs_med": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 1,
@@ -12,15 +17,27 @@
 	"enable_tab_scrolling": false,
 	"findreplace_small": true,
 	"font_face": "Fantasque Sans Mono",
+	"font_options":
+	[
+		"gray_antialias"
+	],
 	"font_size": 17,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"match_brackets_content": true,
 	"match_selection": true,
 	"match_tags": true,
+	"material_theme_small_tab": true,
 	"open_files_in_new_window": true,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": true,
@@ -30,10 +47,7 @@
 	"sidebar_default": true,
 	"tab_size": 4,
 	"tabs_small": true,
-	"theme": "Seti.sublime-theme",
-	"Seti_tabs_med": true,
-	"Seti_SB_med": true,
-	"Seti_SB_bright": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
